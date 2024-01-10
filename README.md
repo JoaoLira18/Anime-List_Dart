@@ -12,9 +12,6 @@ Tolls:
   <img src="https://github.com/JoaoLira18/Anime-List_Dart/assets/75041514/be93daaf-7bd3-41b9-85ed-6d837a7d3320" width="240px" />
 </div>
 <div>
-  <img src="https://github.com/JoaoLira18/Anime-List_Dart/assets/75041514/48cef0e0-b14b-45fb-ac73-d3aeed61e628" width="240px" />
+ <img src="https://github.com/JoaoLira18/Anime-List_Dart/assets/75041514/0a1f79ac-64c1-4f4a-8e08-5e84d1ec3862" width="240px" />
   <img src="https://github.com/JoaoLira18/Anime-List_Dart/assets/75041514/48b6bc43-a660-4158-9233-f9408936e048" width="240px" />
-</div>
-<div>
-  <img src="https://github.com/JoaoLira18/Anime-List_Dart/assets/75041514/0a1f79ac-64c1-4f4a-8e08-5e84d1ec3862" width="240px" />
 </div>
